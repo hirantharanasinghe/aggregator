@@ -1,4 +1,4 @@
-package com.finance.service.aggregator;
+package com.finance.aggregator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
