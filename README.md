@@ -1,1 +1,3 @@
-# aggregator
+# Aggregator
+Build the project
+
